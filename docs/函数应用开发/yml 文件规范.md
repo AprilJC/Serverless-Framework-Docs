@@ -67,7 +67,7 @@ inputs:
 | Express 组件     | [serverless.yml 全量配置](https://github.com/serverless-components/tencent-express/blob/master/docs/configure.md) |
 |  Koa 组件       | [serverless.yml 全量配置](https://github.com/serverless-components/tencent-koa/blob/master/docs/configure.md)         |      
 | Egg 组件  | [serverless.yml 全量配置](https://github.com/serverless-components/tencent-egg/blob/master/docs/configure.md)   |      
-| Next.js 组件  | [serverless.yml 全量配置](hhttps://github.com/serverless-components/tencent-nextjs/blob/master/docs/configure.md)   |
+| Next.js 组件  | [serverless.yml 全量配置](https://github.com/serverless-components/tencent-nextjs/blob/master/docs/configure.md)   |
 | Nuxt.js 组件 | [serverless.yml 全量配置](https://github.com/serverless-components/tencent-nuxtjs/blob/master/docs/configure.md) |
 | Flask 组件 | [serverless.yml 全量配置](https://github.com/serverless-components/tencent-flask/blob/master/docs/configure.md) |
 | Django 组件 | [serverless.yml 全量配置](https://github.com/serverless-components/tencent-django/blob/master/docs/configure.md)|
