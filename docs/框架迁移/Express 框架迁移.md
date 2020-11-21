@@ -44,7 +44,7 @@ const app = express();
 module.exports = app;
 ```
 
-### 2. 快速生成 yml 文件并进行部署
+### 3. 快速生成 yml 文件并进行部署
 完成代码修改后，通过执行 `sls deploy` 指令，Serverless Framework 会自动帮您生成基本的 `serverless.yml` 文件，并完成部署，实现 Express 框架应用的快速迁移。
 
 生成的默认配置文件如下：
@@ -67,12 +67,12 @@ inputs:
 
 部署完成后，通过访问输出的 API 网关链接，完成对应用的访问。
 
-### 3. 修改 yml 文件
+### 4. 修改 yml 配置文件
 
 基于您实际部署需要，您可以在 `serverless.yml` 中完成更多配置，并执行 `sls deploy`重新部署。
 
 yml 文件的配置信息请参考[ Express 组件全量配置](https://github.com/serverless-components/tencent-express/blob/master/docs/configure.md)
 
-### 4. 监控运维
+### 5. 监控运维
 部署完成后，您可以通过访问 [Serverless 应用控制台](https://console.cloud.tencent.com/ssr)，查看应用的基本信息，监控日志。
 
