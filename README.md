@@ -48,6 +48,7 @@
   
   - [Website 静态网站部署](https://github.com/AprilJC/Serverless-Framework-Docs/blob/main/docs/%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/%E9%83%A8%E7%BD%B2%20Website%20%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99.md)
   - [快速部署 Hexo博客](https://github.com/AprilJC/Serverless-Framework-Docs/blob/main/docs/%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/%E5%BF%AB%E9%80%9F%E9%83%A8%E7%BD%B2%20Hexo%E5%8D%9A%E5%AE%A2.md)
+  - [快速构建 REST API](https://github.com/AprilJC/Serverless-Framework-Docs/blob/main/docs/%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/%E5%BF%AB%E9%80%9F%E6%9E%84%E5%BB%BA%20REST%20API.md)
   - [部署基于 Serverless DB 的全栈应用](https://github.com/AprilJC/Serverless-Framework-Docs/blob/main/docs/%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/%E9%83%A8%E7%BD%B2%E5%9F%BA%E4%BA%8E%20Serverless%20DB%20%E7%9A%84%E5%85%A8%E6%A0%88%E5%BA%94%E7%94%A8.md)
   - [部署基于OCR的文字识别应用](https://github.com/AprilJC/Serverless-Framework-Docs/blob/main/docs/%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/%E9%83%A8%E7%BD%B2%E5%9F%BA%E4%BA%8EOCR%E7%9A%84%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB%E5%BA%94%E7%94%A8.md)
 
