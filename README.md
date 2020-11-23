@@ -8,7 +8,7 @@
   - [下载安装](https://github.com/AprilJC/Serverless-Framework-Docs/blob/main/docs/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85.md)
   - [权限配置](https://github.com/AprilJC/Serverless-Framework-Docs/blob/main/docs/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/%E6%9D%83%E9%99%90%E9%85%8D%E7%BD%AE%E8%AF%B4%E6%98%8E.md)
   - [快速入门 - 函数部署](https://github.com/AprilJC/Serverless-Framework-Docs/blob/main/docs/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%20-%20%E5%87%BD%E6%95%B0%E9%83%A8%E7%BD%B2.md)
-  - [快速入门 - 框架迁移](https://github.com/AprilJC/Serverless-Framework-Docs/blob/main/docs/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%20-%20%E6%A1%86%E6%9E%B6%E8%BF%81%E7%A7%BB.md)
+  - [快速入门 - 框架部署](https://github.com/AprilJC/Serverless-Framework-Docs/blob/main/docs/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%20-%20%E6%A1%86%E6%9E%B6%E8%BF%81%E7%A7%BB.md)
 
 - 函数开发
 
