@@ -19,6 +19,7 @@
   - [部署应用](https://github.com/AprilJC/Serverless-Framework-Docs/blob/main/docs/%E5%87%BD%E6%95%B0%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91/%E9%83%A8%E7%BD%B2%E5%BA%94%E7%94%A8.md)
   - [远程调试](https://github.com/AprilJC/Serverless-Framework-Docs/blob/main/docs/%E5%87%BD%E6%95%B0%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91/%E8%BF%9C%E7%A8%8B%E8%B0%83%E8%AF%95.md)
   - [删除应用](https://github.com/AprilJC/Serverless-Framework-Docs/blob/main/docs/%E5%87%BD%E6%95%B0%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91/%E5%88%A0%E9%99%A4%E5%BA%94%E7%94%A8.md)
+  - [多环境部署](https://github.com/AprilJC/Serverless-Framework-Docs/blob/main/docs/%E5%87%BD%E6%95%B0%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91/%E5%A4%9A%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE.md)
    - [通用指令](https://github.com/AprilJC/Serverless-Framework-Docs/blob/main/docs/%E5%87%BD%E6%95%B0%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91/%E9%80%9A%E7%94%A8%E6%8C%87%E4%BB%A4%E4%BB%8B%E7%BB%8D.md)
   - [基础组件列表](https://github.com/AprilJC/Serverless-Framework-Docs/blob/main/docs/%E5%87%BD%E6%95%B0%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91/%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6%E5%88%97%E8%A1%A8.md)
 
