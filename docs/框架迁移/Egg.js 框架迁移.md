@@ -29,9 +29,9 @@ cd egg-example
 ```
 
 ### 2. 快速生成 yml 文件并进行部署
-在项目根目录下，直接执行 `sls deploy` 指令，Serverless Framework 会自动帮您生成基本的 `serverless.yml` 文件，并完成部署，实现 Egg.js 框架应用的快速迁移。
+按以下参考内容配置基本的 `serverless.yml` 文件，在项目根目录下，直接执行 `sls deploy` 指令完成部署，实现 Egg.js 框架应用的快速迁移。
 
-生成的默认配置文件如下：
+基本配置文件如下：
 ```yml
 component: egg
 name: eggDemo
